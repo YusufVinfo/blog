@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flutter</title>
+	<atom:link href="https://yusufvinfo.github.io/blog/category/app-development/flutter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yusufvinfo.github.io/blog</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Dec 2023 06:46:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/28.png</url>
+	<title>Flutter</title>
+	<link>https://yusufvinfo.github.io/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flutter</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/flutter/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/flutter/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:48:00 +0000</pubDate>
+				<category><![CDATA[App-Development]]></category>
+		<category><![CDATA[Flutter]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=68</guid>
+
+					<description><![CDATA[The first version of Flutter was known as &#8220;Sky&#8221;[8]&#160;and ran on the&#160;Android&#160;operating system. It was unveiled at the 2015&#160;Dart&#160;developer summit[9]&#160;with the stated intent of being able to&#160;render&#160;consistently at 120&#160;frames per [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The first version of Flutter was known as &#8220;Sky&#8221;<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-8">[8]</a></sup>&nbsp;and ran on the&nbsp;<a href="https://en.wikipedia.org/wiki/Android_(operating_system)">Android</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Operating_system">operating system</a>. It was unveiled at the 2015&nbsp;<a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>&nbsp;developer summit<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-9">[9]</a></sup>&nbsp;with the stated intent of being able to&nbsp;<a href="https://en.wikipedia.org/wiki/Rendering_(computer_graphics)">render</a>&nbsp;consistently at 120&nbsp;<a href="https://en.wikipedia.org/wiki/Frame_rate">frames per second</a>.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-:1-10">[10]</a></sup>&nbsp;During the keynote of&nbsp;<a href="https://en.wikipedia.org/wiki/Google_Developer_Day">Google Developer Days</a>&nbsp;in Shanghai in September 2018, Google announced Flutter Release Preview 2, the last major release before Flutter 1.0. On December 4, 2018, Flutter 1.0 was released at the Flutter Live event, denoting the first stable version of the framework. On December 11, 2019, Flutter 1.12 was released at the Flutter Interactive event.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-11">[11]</a></sup></p>
+
+
+
+<p>On May 6, 2020, the Dart software development kit (<a href="https://en.wikipedia.org/wiki/Software_development_kit">SDK</a>) version 2.8 and Flutter 1.17.0 were released, adding support for the&nbsp;<a href="https://en.wikipedia.org/wiki/Metal_(API)">Metal</a>&nbsp;<a href="https://en.wikipedia.org/wiki/API">API</a>&nbsp;which improves performance on iOS devices by approximately 50%, as well as new Material widgets and network tracking development tools.</p>
+
+
+
+<p>On March 3, 2021, Google released Flutter 2 during an online Flutter Engage event. This major update brought official support for web-based applications with a new Canvas Kit renderer and web specific widgets, early-access desktop application support for&nbsp;<a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Windows</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/MacOS">macOS</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Linux">Linux</a>&nbsp;and improved Add-to-App&nbsp;<a href="https://en.wikipedia.org/wiki/API">APIs</a>.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-12">[12]</a></sup>&nbsp;This release also utilized Dart 2.0 that featured&nbsp;<a href="https://en.wikipedia.org/wiki/Void_safety">null-safety</a>, which caused many breaking changes and issues with many external packages; however, the Flutter team included instructions and tools to mitigate these issues.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-13">[13]</a></sup></p>
+
+
+
+<p>On September 8, 2021, Dart 2.14 and Flutter 2.5 were released by Google. The update brought improvements to the Android full-screen mode and the latest version of Google&#8217;s&nbsp;<a href="https://en.wikipedia.org/wiki/Material_Design">Material Design</a>&nbsp;called Material You. Dart received two new updates, standardizing&nbsp;<a href="https://en.wikipedia.org/wiki/Lint_(software)">lint</a>&nbsp;conditions and marking support for&nbsp;<a href="https://en.wikipedia.org/wiki/Apple_silicon">Apple Silicon</a>&nbsp;as stable.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-14">[14]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-15">[15]</a></sup></p>
+
+
+
+<p>On May 12, 2022, Google announced the release of Flutter 3 and Dart 2.17. This update expanded the total number of platforms supported to six, including stable support for Linux and macOS on both Intel and Apple Silicon processors.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-16">[16]</a></sup></p>
+
+
+
+<p>On August 30, 2022, Flutter 3.3 was announced. This release featured&nbsp;<a href="https://en.wikipedia.org/wiki/Objective-C">Objective-C</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>&nbsp;interop and an early preview of a new rendering engine called &#8220;Impeller&#8221; which aims to reduce stutter caused by&nbsp;<a href="https://en.wikipedia.org/wiki/Shader">shader</a>&nbsp;compilation.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-:2-17">[17]</a></sup></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/flutter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

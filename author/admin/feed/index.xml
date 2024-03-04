@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin</title>
+	<atom:link href="https://yusufvinfo.github.io/blog/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yusufvinfo.github.io/blog</link>
+	<description></description>
+	<lastBuildDate>Tue, 09 Jan 2024 09:42:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/28.png</url>
+	<title>admin</title>
+	<link>https://yusufvinfo.github.io/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress</title>
+		<link>https://yusufvinfo.github.io/blog/2024/01/08/wordpress/</link>
+					<comments>https://yusufvinfo.github.io/blog/2024/01/08/wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 10:13:34 +0000</pubDate>
+				<category><![CDATA[App-Development]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=200</guid>
+
+					<description><![CDATA[WordPress&#160;(also known as&#160;WP&#160;or&#160;WordPress.org) is a&#160;web content management system. It was originally created as a tool to publish&#160;blogs&#160;but has evolved to support publishing other web content, including more traditional websites,&#160;mailing lists&#160;and&#160;Internet [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>WordPress</strong>&nbsp;(also known as&nbsp;<strong>WP</strong>&nbsp;or&nbsp;<strong>WordPress.org</strong>) is a&nbsp;<a href="https://en.wikipedia.org/wiki/Web_content_management_system">web content management system</a>. It was originally created as a tool to publish&nbsp;<a href="https://en.wikipedia.org/wiki/Blog">blogs</a>&nbsp;but has evolved to support publishing other web content, including more traditional websites,&nbsp;<a href="https://en.wikipedia.org/wiki/Electronic_mailing_list">mailing lists</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Internet_forum">Internet forum</a>, media galleries, membership sites,&nbsp;<a href="https://en.wikipedia.org/wiki/Learning_management_system">learning management systems</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Shopping_cart_software">online stores</a>. Available as&nbsp;<a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">free and open-source</a>&nbsp;software, WordPress is among the most popular content management systems – it was used by 43.1% of the top 10 million websites as of December&nbsp;2023.<sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-Usage_of_content_management_systems_for_websites-4">[4]</a></sup><sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-5">[5]</a></sup></p>
+
+
+
+<p>WordPress is written in&nbsp;<a href="https://en.wikipedia.org/wiki/PHP">PHP hypertext preprocessor</a>&nbsp;language<sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-6">[6]</a></sup>&nbsp;and paired with a&nbsp;<a href="https://en.wikipedia.org/wiki/MySQL">MySQL</a>&nbsp;or&nbsp;<a href="https://en.wikipedia.org/wiki/MariaDB">MariaDB</a>&nbsp;database. Features include a&nbsp;<a href="https://en.wikipedia.org/wiki/Plug-in_(computing)">plugin architecture</a>&nbsp;and a&nbsp;<a href="https://en.wikipedia.org/wiki/Web_template_system">template system</a>, referred to within WordPress as &#8220;Themes&#8221;.</p>
+
+
+
+<p>To function, WordPress has to be installed on a&nbsp;<a href="https://en.wikipedia.org/wiki/Web_server">web server</a>, either as part of an&nbsp;<a href="https://en.wikipedia.org/wiki/Internet_hosting_service">Internet hosting service</a>&nbsp;or on a computer running the WordPress software package.<sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-7">[7]</a></sup></p>
+
+
+
+<p>WordPress was released on May 27, 2003, by its founders, American developer&nbsp;<a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a><sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-release-1">[1]</a></sup>&nbsp;and English developer&nbsp;<a href="https://en.wikipedia.org/wiki/Mike_Little">Mike Little</a>.<sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-release_commit-8">[8]</a></sup><sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-9">[9]</a></sup>&nbsp;<a href="https://en.wikipedia.org/wiki/WordPress_Foundation">WordPress Foundation</a>&nbsp;owns WordPress, WordPress projects, and other related trademarks.<sup><a href="https://en.wikipedia.org/wiki/WordPress#cite_note-10">[10]</a></sup></p>
+
+
+<div class="wpforms-container wpforms-container-full wpforms-render-modern" id="wpforms-143"><form id="wpforms-form-143" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="143" method="post" enctype="multipart/form-data" action="/blog-website/author/admin/feed/?simply_static_page=11414" data-token="7a3edc73dbab43ee3a7479be05b41a53"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-hidden" id="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</div><div class="wpforms-field-container"><div id="wpforms-143-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><fieldset><legend class="wpforms-field-label">Name <span class="wpforms-required-label" aria-hidden="true">*</span></legend><div class="wpforms-field-row wpforms-field-medium"><div class="wpforms-field-row-block wpforms-first wpforms-two-fifths"><input type="text" id="wpforms-143-field_0" class="wpforms-field-name-first wpforms-field-required" name="wpforms[fields][0][first]" aria-errormessage="wpforms-143-field_0-error" required><label for="wpforms-143-field_0" class="wpforms-field-sublabel after ">First</label></div><div class="wpforms-field-row-block wpforms-one-fifth"><input type="text" id="wpforms-143-field_0-middle" class="wpforms-field-name-middle" name="wpforms[fields][0][middle]" aria-errormessage="wpforms-143-field_0-middle-error" ><label for="wpforms-143-field_0-middle" class="wpforms-field-sublabel after ">Middle</label></div><div class="wpforms-field-row-block wpforms-two-fifths"><input type="text" id="wpforms-143-field_0-last" class="wpforms-field-name-last wpforms-field-required" name="wpforms[fields][0][last]" aria-errormessage="wpforms-143-field_0-last-error" required><label for="wpforms-143-field_0-last" class="wpforms-field-sublabel after ">Last</label></div></div></fieldset></div><div id="wpforms-143-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-143-field_1">Email <span class="wpforms-required-label" aria-hidden="true">*</span></label><input type="email" id="wpforms-143-field_1" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][1]" spellcheck="false" aria-errormessage="wpforms-143-field_1-error" required></div><div id="wpforms-143-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label" for="wpforms-143-field_2">Comment or Message</label><textarea id="wpforms-143-field_2" class="wpforms-field-medium" name="wpforms[fields][2]" aria-errormessage="wpforms-143-field_2-error" ></textarea></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="143"><input type="hidden" name="wpforms[author]" value="1"><button type="submit" name="wpforms[submit]" id="wpforms-submit-143" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img decoding="async" src="https://yusufvinfo.github.io/blog/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2024/01/08/wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Social Media Optimization</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/social-media-optimization/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/social-media-optimization/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 07:55:20 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=94</guid>
+
+					<description><![CDATA[re you looking to grab a piece of the digital marketing pie? This guide is for you. A career in Digital marketing is a substantial decision. With or without prior [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>re you looking to grab a piece of the digital marketing pie? This guide is for you.</p>
+
+
+
+<p>A career in Digital marketing is a substantial decision. With or without prior experience, there is always time to enter the dynamic online marketing field. You do not need to attend a college or university for a&nbsp;<a href="https://www.wscubetech.com/online-digital-marketing-course-india.html" target="_blank" rel="noreferrer noopener"><strong>digital marketing course</strong></a>, as many resources are available online to acquire the necessary skills.</p>
+
+
+
+<p>That’s the beauty of this industry. You don’t need to be certified to work as a digital marketer. There are no gatekeepers.</p>
+
+
+
+<p>If you are looking for a creative role in tech that lets you make big-picture plans, write clever copy, and even spend some days chatting with fans on Instagram, digital marketing could be your ideal career. That’s why this is an all-encompassing guide to building a career in digital marketing with no experience, one step at a time. Read it, bookmark it, live it.</p>
+
+
+
+<p>Digital marketing promotes products, services, or brands via social media, search engines, email, websites, and mobile apps. It encompasses various techniques and tactics. This includes&nbsp;<a href="https://www.wscubetech.com/blog/latest-social-media-marketing-trends-india/" target="_blank" rel="noreferrer noopener">social media marketing</a>, content marketing, Pay-Per-Click (PPC) advertising, influencer marketing, search engine optimization, email marketing, and more.&nbsp;</p>
+
+
+
+<p>Digital marketing aspires to reach and engage with an audience through digital channels to drive conversions and sales and ultimately grow a business.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/social-media-optimization/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is Email Marketing and How Does It Work? Types, Pros and Cons, Email Marketing Strategy Plan 2024</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/what-is-email-marketing-and-how-does-it-work-types-pros-and-cons-email-marketing-strategy-plan-2024/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/what-is-email-marketing-and-how-does-it-work-types-pros-and-cons-email-marketing-strategy-plan-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 07:53:29 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=91</guid>
+
+					<description><![CDATA[Despite the rise in social media platforms, email marketing is still the best-known and most effective form of digital communication. It is the most profitable form of direct marketing, generating [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Despite the rise in social media platforms, email marketing is still the best-known and most effective form of digital communication. It is the most profitable form of direct marketing, generating an ROI of $42 for every $1 spent.&nbsp;Some business professionals, marketers, and beginners still wonder&nbsp;<strong>what is email marketing and how does it work.&nbsp;</strong>Can it be beneficial for their business goals<strong>?</strong></p>
+
+
+
+<p>Let’s understand the meaning of email marketing and how does email marketing work in the comprehensive write-up.</p>
+
+
+
+<p>It is one of the top marketing strategies because it is budget-friendly and saves time. Also, when done following a plan, it can generate sales, drive traffic and maximize profits.&nbsp;</p>
+
+
+
+<p>It is a vast discipline with plenty of&nbsp;<a href="https://www.wscubetech.com/blog/top-free-email-marketing-tools-platforms/" target="_blank" rel="noreferrer noopener">email marketing tools</a>&nbsp;and techniques to execute a successful campaign. And, if you’re a beginner and want to know more about email marketing, hang in tight; we’ll discuss on:</p>
+
+
+
+<ol>
+<li>Email Marketing Definition and Meaning</li>
+
+
+
+<li>What are the advantages and disadvantages of email marketing?</li>
+
+
+
+<li>How many types of email<strong>&nbsp;</strong>marketing are there?</li>
+
+
+
+<li>What is the best email marketing strategy?</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/what-is-email-marketing-and-how-does-it-work-types-pros-and-cons-email-marketing-strategy-plan-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Become SEO Freelancer? 2024 Guide for Beginners</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/how-to-become-seo-freelancer-2024-guide-for-beginners/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/how-to-become-seo-freelancer-2024-guide-for-beginners/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 07:47:19 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=87</guid>
+
+					<description><![CDATA[We are living in a digital era, where every click holds the potential to shape online destinies. In this era, Search Engine Optimization (SEO) stands as the silent architect behind [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We are living in a digital era, where every click holds the potential to shape online destinies. In this era, Search Engine Optimization (<a href="https://www.wscubetech.com/blog/digital-marketing/search-engine-optimization/" target="_blank" rel="noreferrer noopener">SEO</a>) stands as the silent architect behind the scenes. As businesses look to boost their online presence, the demand for skilled SEO professionals has grown very high.</p>
+
+
+
+<p>For those looking to start their digital entrepreneurship journey, SEO freelancing emerges as an enticing route. If you’ve ever wondered how to become an SEO freelancer or begin a career in it, you’re in the right place.</p>
+
+
+
+<p>In this comprehensive SEO freelancing guide, let’s understand all the essentials of SEO freelancing, from search algorithms, keywords, and client interactions to becoming a highly-paid professional.&nbsp;</p>
+
+
+
+<p>Whether you’re a recent graduate, a career switcher, or a seasoned marketer looking to diversify, this guide aims to equip you with the knowledge, skills, and strategies needed to flourish in the filed of SEO freelancing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/how-to-become-seo-freelancer-2024-guide-for-beginners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flipkart</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/flipkart/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/flipkart/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 07:01:11 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[Flipkart]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=77</guid>
+
+					<description><![CDATA[Flipkart Private Limited&#160;is an Indian&#160;e-commerce&#160;company, headquartered in&#160;Bangalore, and incorporated in&#160;Singapore&#160;as a&#160;private limited company. The company initially focused on online book sales before expanding into other product categories such as&#160;consumer electronics,&#160;fashion, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Flipkart Private Limited</strong>&nbsp;is an Indian&nbsp;<a href="https://en.wikipedia.org/wiki/E-commerce">e-commerce</a>&nbsp;company, headquartered in&nbsp;<a href="https://en.wikipedia.org/wiki/Bangalore">Bangalore</a>, and incorporated in&nbsp;<a href="https://en.wikipedia.org/wiki/Singapore">Singapore</a>&nbsp;as a&nbsp;<a href="https://en.wikipedia.org/wiki/Private_company_limited_by_shares">private limited company</a>. The company initially focused on online book sales before expanding into other product categories such as&nbsp;<a href="https://en.wikipedia.org/wiki/Consumer_electronics">consumer electronics</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Fashion">fashion</a>, home essentials, groceries, and lifestyle products.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-BBC_Home_2021_y544-5">[5]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-Moneycontrol_2023_i664-6">[6]</a></sup></p>
+
+
+
+<p>The service competes primarily with <a href="https://en.wikipedia.org/wiki/Amazon.com">Amazon</a> India and domestic rival <a href="https://en.wikipedia.org/wiki/Snapdeal">Snapdeal</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-7">[7]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-8">[8]</a></sup> As of March 2017, Flipkart held a 39.5% market share in the Indian e-commerce industry.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-9">[9]</a></sup> Flipkart has a dominant position in the apparel segment, bolstered by its acquisition of <a href="https://en.wikipedia.org/wiki/Myntra">Myntra</a>, and was described as being &#8220;neck and neck&#8221; with Amazon in the sale of electronics and <a href="https://en.wikipedia.org/wiki/Mobile_phone">mobile phones</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-10">[10]</a></sup></p>
+
+
+
+<p>n 2010, Flipkart acquired the Bangalore-based social book discovery service WeRead from&nbsp;<a href="https://en.wikipedia.org/wiki/Lulu.com">Lulu.com</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-15">[15]</a></sup></p>
+
+
+
+<p>In 2011, Flipkart acquired the&nbsp;<a href="https://en.wikipedia.org/wiki/Digital_distribution">digital distribution</a>&nbsp;business Mime360.com<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-mime360-16">[16]</a></sup>&nbsp;and the digital content library of the&nbsp;<a href="https://en.wikipedia.org/wiki/Bollywood">Bollywood</a>&nbsp;portal Chakpak.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-chakpak-17">[17]</a></sup>&nbsp;Following the acquisition, Flipkart launched its&nbsp;<a href="https://en.wikipedia.org/wiki/DRM-Free">DRM-free</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Online_music_store">online music store</a>&nbsp;Flyte in 2012. Due to competition from free streaming sites, Flyte was unsuccessful and shut down in June 2013.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-digit-18">[18]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-19">[19]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-20">[20]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-21">[21]</a></sup></p>
+
+
+
+<p>With its eyes on India&#8217;s retail market, Flipkart acquired Letsbuy, an online electronics retailer,<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-letsbuy-acquired-22">[22]</a></sup>&nbsp;in 2012, and&nbsp;<a href="https://en.wikipedia.org/wiki/Myntra">Myntra</a>, an online fashion retailer, for US$280 million in May 2014.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-23">[23]</a></sup>&nbsp;Myntra continues to operate alongside Flipkart as a standalone subsidiary focusing on separate market segments.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-24">[24]</a></sup></p>
+
+
+
+<p>In April 2015, Flipkart acquired Appiterate, a&nbsp;<a href="https://en.wikipedia.org/wiki/Delhi">Delhi</a>-based&nbsp;<a href="https://en.wikipedia.org/wiki/Mobile_marketing">mobile marketing</a>&nbsp;automation firm. Flipkart stated that it would use Appiterate&#8217;s technology to enhance its mobile services.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-25">[25]</a></sup>&nbsp;In December 2015, Flipkart purchased a minority stake in the digital mapping provider&nbsp;<a href="https://en.wikipedia.org/wiki/MapmyIndia">MapmyIndia</a><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-26">[26]</a></sup>&nbsp;and the&nbsp;<a href="https://en.wikipedia.org/wiki/Unified_Payments_Interface">UPI</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Mobile_payments">mobile payments</a>&nbsp;startup&nbsp;<a href="https://en.wikipedia.org/wiki/PhonePe">PhonePe</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-27">[27]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-mintphonepe-28">[28]</a></sup>&nbsp;In 2022, when PhonePe moved its entire base to India, Flipkart separated the ownership of&nbsp;<a href="https://en.wikipedia.org/wiki/PhonePe">PhonePe</a>&nbsp;and shareholders in India and Singapore and the respective shareholders purchased shares of&nbsp;<a href="https://en.wikipedia.org/wiki/PhonePe">PhonePe</a>&#8216;s India entity directly. It was announced that a cash payout of approximately $700 Mn was to be made to the former and current employees who were holding PhonePe&#8217;s shares.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-29">[29]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-30">[30]</a></sup></p>
+
+
+
+<p>In 2016, Flipkart acquired the online fashion retailer&nbsp;<a href="https://en.wikipedia.org/wiki/Jabong.com">Jabong.com</a>&nbsp;from&nbsp;<a href="https://en.wikipedia.org/wiki/Rocket_Internet">Rocket Internet</a>&nbsp;for US$70 million and</p>
+
+
+
+<p>in January 2017, Flipkart made a US$2 million investment in&nbsp;<a href="https://en.wikipedia.org/wiki/TinyStep">TinyStep</a>, a parenting information startup.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-31">[31]</a></sup></p>
+
+
+
+<p>In April 2017,&nbsp;<a href="https://en.wikipedia.org/wiki/EBay">eBay</a>&nbsp;announced that it would sell its Indian&nbsp;<a href="https://en.wikipedia.org/wiki/Subsidiary">subsidiary</a>, eBay.in, to Flipkart and invest US$500 million in the company. While eBay suggested that the partnership would allow Flipkart to access eBay&#8217;s network of international vendors, these plans never came to fruition.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-:0-32">[32]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-33">[33]</a></sup>&nbsp;In July 2017, Flipkart made an offer to acquire its main domestic competitor,&nbsp;<a href="https://en.wikipedia.org/wiki/Snapdeal">Snapdeal</a>, for US$700 to 800 million. It was rejected by Snapdeal, which was seeking at least US$1 billion.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-ETflipkartebay-34">[34]</a></sup></p>
+
+
+
+<p>In August 2018, American retail chain&nbsp;<a href="https://en.wikipedia.org/wiki/Walmart">Walmart</a>&nbsp;acquired a 77% controlling stake in Flipkart for&nbsp;<a href="https://en.wikipedia.org/wiki/United_States_dollar">US</a>$16 billion, valuing Flipkart at around US$20 billion.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-35">[35]</a></sup>&nbsp;Flipkart is valued at $37.6 billion as of 2022.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-36">[36]</a></sup>&nbsp;It is planning to go public through a listing in the United States of America in 2023.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-37">[37]</a></sup></p>
+
+
+
+<p>Flipkart invested US$4 million in the customer engagement and rewards platform EasyRewardz on 19 November 2019.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-38">[38]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-39">[39]</a></sup></p>
+
+
+
+<p>In 2020, Flipkart Wholesale launched a digital platform for&nbsp;<a href="https://en.wikipedia.org/wiki/Convenience_store"><em>kiranas</em></a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/MSME">MSMEs</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-40">[40]</a></sup>&nbsp;In July 2020, Flipkart acquired a 27% stake in&nbsp;<a href="https://en.wikipedia.org/wiki/Arvind_(company)">Arvind Fashions Limited</a>&#8216;s newly formed subsidiary Arvind Youth Brands for US$35 million. Arvind Youth Brands owns the Flying Machine brand.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-41">[41]</a></sup>&nbsp;Flipkart also announced it will roll out Flipkart Quick, a hyperlocal 90-minute delivery service for product categories such as groceries, home accessories, mobile phones, stationery, and more.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-42">[42]</a></sup></p>
+
+
+
+<p>In October 2020, Flipkart acquired a 7.8% stake in&nbsp;<a href="https://en.wikipedia.org/wiki/Aditya_Birla_Fashion_and_Retail">Aditya Birla Fashion and Retail</a>&nbsp;for US$204 million.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-43">[43]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-44">[44]</a></sup>&nbsp;The following month, Flipkart acquired the intellectual property of gaming startup Mech Mocha for an undisclosed amount.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-45">[45]</a></sup>&nbsp;The acquisition formed part of Flipkart&#8217;s plans to gain and retain users by offering casual games.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-46">[46]</a></sup>&nbsp;In November 2020, Flipkart acquired augmented reality company Scapic, which provides a suite of tools to create and publish augmented reality, virtual reality, and 3D content quickly and without coding.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-47">[47]</a></sup></p>
+
+
+
+<p>As of 2021, the Flipkart app was available in 8 local Indian languages, Gujarati, Bengali, Odia, Hindi, Telugu, Kannada, Marathi and Tamil.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-48">[48]</a></sup></p>
+
+
+
+<p>In April 2021, Flipkart announced the acquisition of the travel booking portal&nbsp;<a href="https://en.wikipedia.org/wiki/Cleartrip">Cleartrip</a>.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-49">[49]</a></sup>Flipkart also entered the hotel industry for the Indian and global markets. The Flipkart Hotels uses Cleartrip API.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-50">[50]</a></sup>&nbsp;Flipkart acquired Cleartrip&#8217;s business in Middle East by signing an agreement with&nbsp;<a href="https://en.wikipedia.org/wiki/Wego.com">Wego</a>&nbsp;&#8211; an online market place for travel that operates in middle east and North Africa. This included the sale of the website Flyin.com.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-51">[51]</a></sup></p>
+
+
+
+<p>In April 2022, Flipkart launched its first grocery fulfilment center in&nbsp;<a href="https://en.wikipedia.org/wiki/Northeast_India">Northeast India</a>, based in&nbsp;<a href="https://en.wikipedia.org/wiki/Guwahati">Guwahati</a>. The centre was reportedly women-run to support the career progression of Flipkart&#8217;s female employees.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-52">[52]</a></sup>&nbsp;The same month, the company established the Flipkart Foundation to support entrepreneurship and skill development within the underserved communities in India.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-53">[53]</a></sup></p>
+
+
+
+<p>In 2022, Flipkart entered the <a href="https://en.wikipedia.org/wiki/Non-fungible_token">Non-Fungible Tokens (NFTs)</a> and <a href="https://en.wikipedia.org/wiki/Web3">Web3</a> segment by letting the Indian purchasers of <a href="https://en.wikipedia.org/wiki/Nothing_Phone_1">Nothing Phone (1)</a> to get Nothing&#8217;s NFT through the app called Nothing Community Dots. These NFTs use the <a href="https://en.wikipedia.org/wiki/Polygon_(blockchain)">Polygon blockchain</a> to host it.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-54">[54]</a></sup> The NFT drop happened at FireDrops &#8211; which was done on Flipkart&#8217;s NFT marketplace, supported by GuardianLink.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-55">[55]</a></sup> In October 2022, Flipkart also created a shopping platform that was metaverse-based, called Flipverse. The platform allows people to explore products and shop in a more interactive way.<sup><a href="https://en.wikipedia.org/wiki/Flipkart#cite_note-56">[56]</a></sup> The Flipverse has been created through a partnership with a Polygon-incubated firm called eDAO, and Flipverse hopes to provide a similar experience to the actual mall-like shopping where people would be able to create their Avatars.<sup>[<em><a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">citation needed</a></em>]</sup></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="768" height="576" data-id="81" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/21.jpg" alt="" class="wp-image-81"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="576" data-id="79" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/22.jpg" alt="" class="wp-image-79"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="576" data-id="80" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/23.jpg" alt="" class="wp-image-80"/></figure>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/flipkart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amazon</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/amazon/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/amazon/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:57:50 +0000</pubDate>
+				<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[E-Commerce]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=71</guid>
+
+					<description><![CDATA[Amazon.com, Inc.[1]&#160;(also&#160;/ˈæməzən/&#160;AM-ə-zən) is an American multinational technology company focusing on&#160;e-commerce,&#160;cloud computing,&#160;online advertising,&#160;digital streaming, and&#160;artificial intelligence.[5]&#160;It is considered one of the&#160;Big Five&#160;American technology companies, alongside&#160;Alphabet&#160;(parent company of&#160;Google),&#160;Apple,&#160;Meta&#160;(parent company of&#160;Facebook) and&#160;Microsoft. Amazon [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Amazon.com, Inc.</strong><sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-10K-1">[1]</a></sup>&nbsp;(<small>also&nbsp;</small><a href="https://en.wikipedia.org/wiki/Help:IPA/English">/ˈæməzən/</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"><em>AM-ə-zən</em></a>) is an American multinational technology company focusing on&nbsp;<a href="https://en.wikipedia.org/wiki/E-commerce">e-commerce</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Cloud_computing">cloud computing</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Online_advertising">online advertising</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Digital_streaming">digital streaming</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-5">[5]</a></sup>&nbsp;It is considered one of the&nbsp;<a href="https://en.wikipedia.org/wiki/Big_Tech">Big Five</a>&nbsp;American technology companies, alongside&nbsp;<a href="https://en.wikipedia.org/wiki/Alphabet_Inc.">Alphabet</a>&nbsp;(parent company of&nbsp;<a href="https://en.wikipedia.org/wiki/Google">Google</a>),&nbsp;<a href="https://en.wikipedia.org/wiki/Apple_Inc.">Apple</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Meta_Platforms">Meta</a>&nbsp;(parent company of&nbsp;<a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>) and&nbsp;<a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>.</p>
+
+
+
+<p>Amazon was founded by&nbsp;<a href="https://en.wikipedia.org/wiki/Jeff_Bezos">Jeff Bezos</a>&nbsp;from his garage in&nbsp;<a href="https://en.wikipedia.org/wiki/Bellevue,_Washington">Bellevue</a>, Washington,<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-6">[6]</a></sup>&nbsp;on July 5, 1994. Initially an online marketplace for books, it has expanded into a multitude of product categories, a strategy that has earned it the moniker&nbsp;<em>The Everything Store</em>.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-7">[7]</a></sup>&nbsp;It has multiple&nbsp;<a href="https://en.wikipedia.org/wiki/Subsidiary">subsidiaries</a>&nbsp;including&nbsp;<a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a>&nbsp;(cloud computing),&nbsp;<a href="https://en.wikipedia.org/wiki/Zoox_(company)">Zoox</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Self-driving_car">autonomous vehicles</a>),&nbsp;<a href="https://en.wikipedia.org/wiki/Kuiper_Systems">Kuiper Systems</a>&nbsp;(satellite Internet), and&nbsp;<a href="https://en.wikipedia.org/wiki/Amazon_Lab126">Amazon Lab126</a>&nbsp;(computer hardware&nbsp;<a href="https://en.wikipedia.org/wiki/Research_and_development">R&amp;D</a>). Its other subsidiaries include&nbsp;<a href="https://en.wikipedia.org/wiki/Ring_(company)">Ring</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Twitch_(service)">Twitch</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/IMDb">IMDb</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Whole_Foods_Market">Whole Foods Market</a>. Its acquisition of Whole Foods in August 2017 for&nbsp;US$13.4&nbsp;billion substantially increased its footprint as a&nbsp;<a href="https://en.wikipedia.org/wiki/Physical_retailer">physical retailer</a>.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-wf-8">[8]</a></sup></p>
+
+
+
+<p>Amazon has earned a reputation as a disruptor of well-established industries through technological innovation and &#8220;aggressive&#8221; reinvestment of profits into capital expenditures.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-9">[9]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-10">[10]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-11">[11]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-12">[12]</a></sup>&nbsp;As of 2023, it is the world&#8217;s largest&nbsp;<a href="https://en.wikipedia.org/wiki/Online_shopping">online retailer</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Online_marketplace">marketplace</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Smart_speaker">smart speaker</a>&nbsp;provider, cloud computing service through AWS,<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-13">[13]</a></sup>&nbsp;<a href="https://en.wikipedia.org/wiki/Live_streaming">live-streaming</a>&nbsp;service through Twitch, and&nbsp;<a href="https://en.wikipedia.org/wiki/Largest_Internet_company_by_revenue">Internet company</a>&nbsp;as measured by&nbsp;<a href="https://en.wikipedia.org/wiki/Revenue">revenue</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Market_share">market share</a>.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-14">[14]</a></sup>&nbsp;In 2021, it surpassed&nbsp;<a href="https://en.wikipedia.org/wiki/Walmart">Walmart</a>&nbsp;as the world&#8217;s largest retailer outside of China, driven in large part by its paid subscription plan,&nbsp;<a href="https://en.wikipedia.org/wiki/Amazon_Prime">Amazon Prime</a>, which has close to 200&nbsp;million subscribers worldwide.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-15">[15]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-16">[16]</a></sup>&nbsp;It is the&nbsp;<a href="https://en.wikipedia.org/wiki/List_of_largest_employers_in_the_United_States">second-largest private employer in the United States</a>.<sup><a href="https://en.wikipedia.org/wiki/Amazon_(company)#cite_note-17">[17]</a></sup></p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="576" data-id="74" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/18.png" alt="" class="wp-image-74"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="576" data-id="75" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/19-2.png" alt="" class="wp-image-75"/></figure>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/amazon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flutter</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/flutter/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/flutter/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:48:00 +0000</pubDate>
+				<category><![CDATA[App-Development]]></category>
+		<category><![CDATA[Flutter]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=68</guid>
+
+					<description><![CDATA[The first version of Flutter was known as &#8220;Sky&#8221;[8]&#160;and ran on the&#160;Android&#160;operating system. It was unveiled at the 2015&#160;Dart&#160;developer summit[9]&#160;with the stated intent of being able to&#160;render&#160;consistently at 120&#160;frames per [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The first version of Flutter was known as &#8220;Sky&#8221;<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-8">[8]</a></sup>&nbsp;and ran on the&nbsp;<a href="https://en.wikipedia.org/wiki/Android_(operating_system)">Android</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Operating_system">operating system</a>. It was unveiled at the 2015&nbsp;<a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">Dart</a>&nbsp;developer summit<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-9">[9]</a></sup>&nbsp;with the stated intent of being able to&nbsp;<a href="https://en.wikipedia.org/wiki/Rendering_(computer_graphics)">render</a>&nbsp;consistently at 120&nbsp;<a href="https://en.wikipedia.org/wiki/Frame_rate">frames per second</a>.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-:1-10">[10]</a></sup>&nbsp;During the keynote of&nbsp;<a href="https://en.wikipedia.org/wiki/Google_Developer_Day">Google Developer Days</a>&nbsp;in Shanghai in September 2018, Google announced Flutter Release Preview 2, the last major release before Flutter 1.0. On December 4, 2018, Flutter 1.0 was released at the Flutter Live event, denoting the first stable version of the framework. On December 11, 2019, Flutter 1.12 was released at the Flutter Interactive event.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-11">[11]</a></sup></p>
+
+
+
+<p>On May 6, 2020, the Dart software development kit (<a href="https://en.wikipedia.org/wiki/Software_development_kit">SDK</a>) version 2.8 and Flutter 1.17.0 were released, adding support for the&nbsp;<a href="https://en.wikipedia.org/wiki/Metal_(API)">Metal</a>&nbsp;<a href="https://en.wikipedia.org/wiki/API">API</a>&nbsp;which improves performance on iOS devices by approximately 50%, as well as new Material widgets and network tracking development tools.</p>
+
+
+
+<p>On March 3, 2021, Google released Flutter 2 during an online Flutter Engage event. This major update brought official support for web-based applications with a new Canvas Kit renderer and web specific widgets, early-access desktop application support for&nbsp;<a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Windows</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/MacOS">macOS</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Linux">Linux</a>&nbsp;and improved Add-to-App&nbsp;<a href="https://en.wikipedia.org/wiki/API">APIs</a>.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-12">[12]</a></sup>&nbsp;This release also utilized Dart 2.0 that featured&nbsp;<a href="https://en.wikipedia.org/wiki/Void_safety">null-safety</a>, which caused many breaking changes and issues with many external packages; however, the Flutter team included instructions and tools to mitigate these issues.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-13">[13]</a></sup></p>
+
+
+
+<p>On September 8, 2021, Dart 2.14 and Flutter 2.5 were released by Google. The update brought improvements to the Android full-screen mode and the latest version of Google&#8217;s&nbsp;<a href="https://en.wikipedia.org/wiki/Material_Design">Material Design</a>&nbsp;called Material You. Dart received two new updates, standardizing&nbsp;<a href="https://en.wikipedia.org/wiki/Lint_(software)">lint</a>&nbsp;conditions and marking support for&nbsp;<a href="https://en.wikipedia.org/wiki/Apple_silicon">Apple Silicon</a>&nbsp;as stable.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-14">[14]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-15">[15]</a></sup></p>
+
+
+
+<p>On May 12, 2022, Google announced the release of Flutter 3 and Dart 2.17. This update expanded the total number of platforms supported to six, including stable support for Linux and macOS on both Intel and Apple Silicon processors.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-16">[16]</a></sup></p>
+
+
+
+<p>On August 30, 2022, Flutter 3.3 was announced. This release featured&nbsp;<a href="https://en.wikipedia.org/wiki/Objective-C">Objective-C</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a>&nbsp;interop and an early preview of a new rendering engine called &#8220;Impeller&#8221; which aims to reduce stutter caused by&nbsp;<a href="https://en.wikipedia.org/wiki/Shader">shader</a>&nbsp;compilation.<sup><a href="https://en.wikipedia.org/wiki/Flutter_(software)#cite_note-:2-17">[17]</a></sup></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/flutter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>App-Development</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/app-development/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/app-development/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:44:08 +0000</pubDate>
+				<category><![CDATA[App-Development]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=65</guid>
+
+					<description><![CDATA[Mobile app development is the act or process by which a is for one or more, which can include (PDA), (EDA), or  Such soft applications are specifically designed to run on mobile devices, taking numerous [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Mobile app development</strong> is the act or process by which a is for one or more, which can include (PDA), (EDA), or  Such soft applications are specifically designed to run on mobile devices, taking numerous hardware constraints into consideration. Common constraints include CPU architecture and speeds, available memory (RAM), limited data storage capacities, and considerable variation in displays (technology, size, dimensions, resolution) and input methods (buttons, keyboard, touch screens with/without styluses).These applications (or &#8216;apps&#8217;) can be on phones during manufacturing or delivered as web applications, using server-side or client-side processing (e.g., JavaScript) to provide an &#8220;application-like&#8221; experience within. <a href="https://en.wikipedia.org/wiki/Web_browser">web browser</a>.<sup><a href="https://en.wikipedia.org/wiki/Mobile_app_development#cite_note-3">[3]</a></sup></p>
+
+
+
+<p>Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct&nbsp;<em>app economy</em>&nbsp;jobs within the EU then 28 members (including the UK), 60 percent of which are mobile app developers.<sup><a href="https://en.wikipedia.org/wiki/Mobile_app_development#cite_note-4">[4]</a></sup></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/app-development/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>E-Commerce</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/course/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/course/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:35:20 +0000</pubDate>
+				<category><![CDATA[E-Commerce]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=58</guid>
+
+					<description><![CDATA[E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet.]]></description>
+										<content:encoded><![CDATA[
+<p>E-commerce (electronic commerce) is <strong>the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet</strong>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/course/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meesho</title>
+		<link>https://yusufvinfo.github.io/blog/2023/12/23/meesho/</link>
+					<comments>https://yusufvinfo.github.io/blog/2023/12/23/meesho/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 06:09:37 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://yusufvinfo.github.io/blog/?p=45</guid>
+
+					<description><![CDATA[Meesho  fashion near technologies private Ltd company.]]></description>
+										<content:encoded><![CDATA[
+<p>Fashnear Technologies Private Limited was established by <a href="https://en.wikipedia.org/wiki/IIT_Delhi">I</a>graduates Vidit Aatrey and Sanjeev Barnwal in July, 2015<sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-:2-6">[</a></sup>as an on-demand delivery service like but for fashion products from local shops. The startup failed. In 2016, the founders came up with the idea of re-establishing the platform as Meesho, one that would enable country-wide shipping for resellers with the use of social media sites as tools for marketing.<sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-7">[7]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-:0-3">[3]</a></sup></p>
+
+
+
+<p>Meesho had 209,000 users and 1.2 million orders per month in February 2019 and 563,000 users and 3.1 million orders per month in March 2020.<sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-8">[8]</a></sup> It saw big growth during 2021 and 2022.<sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-9">[9]</a></sup> Meesho&#8217;s monthly transacting user count rose 26 times during 2020–2022. Globally, Meesho was among the top most downloaded apps in 2021.In 2022, Meesho had about 120 million monthly users and about 910 million orders were made through the platform. It soon became one of India&#8217;s fastest growing e-commerce platforms.Its (GMV) increased ninefold in two years<sup><a href="https://en.wikipedia.org/wiki/Meesho#cite_note-:3-11">[</a></sup>and was at about $5 billion in 2022 (for comparison, &#8216;s GMV stood at $23 billion).</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1600" height="1200" data-id="47" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/13.png" alt="" class="wp-image-47"/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="576" data-id="48" src="https://yusufvinfo.github.io/blog/wp-content/uploads/2023/12/14.png" alt="" class="wp-image-48"/></figure>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://yusufvinfo.github.io/blog/2023/12/23/meesho/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
